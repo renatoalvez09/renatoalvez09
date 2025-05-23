@@ -1,9 +1,8 @@
-### Hi👋 eu sou Renato Alves
+### Oi👋 eu sou Renato Alves
 
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando JavaScript
-- 💬 Contate-me no email: ra2498891@gmail.com
+- 🌱 Aprendendo React Native
+- 💬 Contate-me no email: renatoalves.contato@outlook.com
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatoalvez09&show_icons=true&theme=radical)
