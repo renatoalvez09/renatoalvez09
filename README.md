@@ -1,7 +1,6 @@
 ### Oi👋 eu sou Renato Alves
 
 
-- 🌱 Aprendendo React Native
 - 💬 Contate-me no email: renatoalves.contato@outlook.com
 
 
