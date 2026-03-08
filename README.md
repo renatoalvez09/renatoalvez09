@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou Renato 👋
 
-<!--
-**renatoalvez09/renatoalvez09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão de TI
+💻 Técnico em Desenvolvimento de Sistemas
+🐍 Atualmente estudando Python
 
-Here are some ideas to get you started:
+## 📚 O que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Lógica de programação
+* Python
+* Git e GitHub
+* Desenvolvimento de software
+
+## 🚀 Projetos
+
+Aqui estão alguns exercícios e projetos que estou desenvolvendo durante meus estudos.
+
+* Listas de exercícios em Python
+* Pequenos projetos de terminal
+* Estudos de programação
